@@ -19,7 +19,7 @@ Das Ziel dieses Projekts ist es, die Leistung von A2C und PPO in der CartPole-V1
 - `stable-baselines3`
 - `optuna`
 - `torch`
-- `tensorboard`
+- `tensorboardX`
 
 ## Installation
 Um das Projekt lokal auszuführen, folge diesen Schritten:
